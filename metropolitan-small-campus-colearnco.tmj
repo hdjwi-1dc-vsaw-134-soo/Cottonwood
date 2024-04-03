@@ -1262,7 +1262,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/playground#start"
+                         "value":"https:\/\/world.colearnco.org\/@\/playground#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1279,7 +1279,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/training-center#start"
+                         "value":"https:\/\/world.colearnco.org\/@\/training-center#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1296,7 +1296,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/garden-of-eden#start"
+                         "value":"https:\/\/world.colearnco.org\/@\/garden-of-eden#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1313,7 +1313,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/the-labyrinth"
+                         "value":"https:\/\/world.colearnco.org\/@\/the-labyrinth"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2123,7 +2123,7 @@
          "value":"This map is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
