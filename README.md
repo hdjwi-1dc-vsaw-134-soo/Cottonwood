@@ -1,6 +1,6 @@
 # 100 Roads Design
 
-![100 Roads Design logo](100roadsdesign-logo.svg)
+![100 Roads Design logo](readme/100roadsdesign-logo.svg)
 
 100 Roads has been designing and innovating in the education space since 2016. Our founder, Catherine Fraise, first designed a physical campus at Workspace Education in Bethel CT.
 
@@ -14,15 +14,15 @@ Learn more about us at https://100roadsdesign.com.
 
 There are three virtual campuses in this repository.
 
-![map](colearnco-readme.png)
+![map](readme/colearnco-readme.png)
 
 Map name: ColearnCo.
 
-![map](playground-readme.png)
+![map](readme/playground-readme.png)
 
 Map name: Playground.
 
-![map](training-center-readme.png)
+![map](readme/training-center-readme.png)
 
 Map name: Training Center.
 
